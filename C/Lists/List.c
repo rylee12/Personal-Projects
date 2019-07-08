@@ -1,6 +1,8 @@
 // Ryan K Lee
 // Title: List.c
-// Description:
+// Description: This file contains the structure definitions and methods needed to create,
+// manipulate, maintain, and delete a List ADT
+//
 // Note: The cursor is a pointer the client can use to navigate the List ADT.
 // The index is the element the cursor is at, ranging from 0 to length - 1.
 

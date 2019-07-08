@@ -1,6 +1,7 @@
 // Ryan K Lee
 // Title: List.h
-// Description: This file is the header file that contains the function definitions and structure definitions for the List ADT
+// Description: This file is the header file that contains the function definitions and structure definitions
+// for the List ADT
 
 #ifndef LIST_H
 #define LIST_H

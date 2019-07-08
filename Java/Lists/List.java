@@ -1,6 +1,8 @@
 // Ryan K Lee
 // Title: List.java
-// Description:
+// Description: This file contains the class definition of a List ADT. It contains the
+// necessary constructors and functions needed to create, manipulate, maintain, and delete
+// a List ADT.
 
 class List{
 	private class Node{
