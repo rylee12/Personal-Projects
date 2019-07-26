@@ -1,6 +1,6 @@
 // Ryan K Lee
 // Title: ListClient.c
-// Description: Client/test file for the List ADT
+// Description: Test client for the List ADT
 
 #include<stdio.h>
 #include<stdlib.h>

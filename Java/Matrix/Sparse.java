@@ -1,7 +1,7 @@
 /*
  * Ryan Lee
  * Title: Sparse.java
- * Description:
+ * Description: The top level client module for the Matrix.java file
  */
 
 import java.io.*;

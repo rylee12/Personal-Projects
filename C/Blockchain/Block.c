@@ -1,8 +1,8 @@
-/*
- * Ryan Lee
- * Title: Block.c
- * Description:
- */
+//-------------------------------------------------------------------------
+// Ryan Lee
+// Title: Block.c
+// Description: This file contains the code for the Block ADT
+//-------------------------------------------------------------------------
 
 #include<stdio.h>
 #include<stdlib.h>

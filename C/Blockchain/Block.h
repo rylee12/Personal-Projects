@@ -1,6 +1,7 @@
 //-----------------------------------------------------------------------------
-// Block.h
-// Header file for the Block ADT
+// Ryan Lee
+// Title: Block.h
+// Description: Header file for the Block ADT
 //-----------------------------------------------------------------------------
 #include <stdio.h>
 #include <stdlib.h>

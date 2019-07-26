@@ -1,7 +1,10 @@
 /*
  * Ryan Lee
  * Title: Matrix.java
- * Description:
+ * Description: Contains the Matrix ADT code needed to create, delete, and manipulate a matrix.
+ * It uses an adjacency list representation to store the values of the Matrix.
+ * 
+ * Note: This only creates an n x n matrix i.e. a square matrix.
  */
 
  class Matrix{

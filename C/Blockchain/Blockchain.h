@@ -1,6 +1,7 @@
 //-----------------------------------------------------------------------------
-// Blockchain.h
-// Header file for the Blockchain ADT
+// Ryan Lee
+// Title: Blockchain.h
+// Description: Header file for the Blockchain ADT
 //-----------------------------------------------------------------------------
 
 #ifndef _BLOCKCHAIN_H_INCLUDE_

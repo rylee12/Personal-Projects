@@ -1,8 +1,9 @@
-/*
- * Ryan Lee
- * Title: Blockchain.c
- * Description:
- */
+//------------------------------------------------------------------------
+// Ryan Lee
+// Title: Blockchain.c
+// Description: Contains the code to create, delete, and manipulate
+// a simple blockchain. 
+//------------------------------------------------------------------------
 
 #include<stdlib.h>
 #include<stdio.h>

@@ -1,6 +1,8 @@
+#-------------------------------------------------------------------------
 # Ryan K Lee
 # Title: Makefile
 # Description: Makefile for the List ADT
+#-------------------------------------------------------------------------
 
 MAINCLASS  = ListClient
 JAVAC      = javac -Xlint

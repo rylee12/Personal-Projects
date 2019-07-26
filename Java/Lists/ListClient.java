@@ -1,6 +1,6 @@
 // Ryan K Lee
 // Title: ListClient.java
-// Description: Client/test file for the List ADT
+// Description: Test client file for the List ADT
 
 public class ListClient{
    public static void main(String[] args){
