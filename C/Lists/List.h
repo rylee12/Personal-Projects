@@ -6,6 +6,9 @@
 #ifndef LIST_H
 #define LIST_H
 
+#include<stdio.h>
+#include<stdlib.h>
+
 typedef struct ListObj* List;
 
 // Constructors and Destructors
