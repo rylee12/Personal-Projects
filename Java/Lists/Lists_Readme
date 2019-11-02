@@ -1,1 +1,3 @@
-
+This program implements a doubly linked list data structure using java.
+It uses front and back pointers as well as a current pointer to allow
+for easier traversal through the list. This list only stores ints.
