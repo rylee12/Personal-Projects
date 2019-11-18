@@ -14,6 +14,7 @@ import sys
 board = []
 
 def board_create(board):
+  # goes from 0 to 9, 10 is excluded
   for x in range(0, 10):
     board.append(["O"] * 10)
 
@@ -27,7 +28,7 @@ def random_row(board):
 def random_col(board):
   return randint(0, len(board[0]) - 1)
 
-def place_ships():
+def place_ships(board):
 
 def chicken_dinner():
   print("You have destroyed all enemy ships. You win!")
