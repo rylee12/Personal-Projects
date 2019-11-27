@@ -1,3 +1,2 @@
-# Personal-Projects
-My personal coding projects for learning experience.
-
+# Learning-Assignments
+A repository to store my computer science class assignments.
